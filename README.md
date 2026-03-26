@@ -142,7 +142,7 @@ Presidency College, Bengaluru
 
 ## 🙌 Acknowledgment
 
-Special thanks to my project guide and faculty members for their support and guidance throughout the development of this project.
+Special thanks to my project guide Deeksha Ma'am and Mr. Nasrulla Khan sir for their support and guidance throughout the development of this project.
 
 ---
 
